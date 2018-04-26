@@ -1,0 +1,13 @@
+*{
+    -webkit-box-sizing: border-box;
+}
+
+.container{
+    width:33%;
+    text-align: left;
+    padding: 30px;
+}
+
+.btn-primary{
+    margin-top:20px;
+}
